@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701602349 source:c:\users\toant\onedrive - hanoi university of science and technology\it_hust\it1108_ndhiep_tinhcuocdienthoai\main.cpp
+	<iostream>
+	<time.h>
+	<iomanip>
+
